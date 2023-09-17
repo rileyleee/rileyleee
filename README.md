@@ -19,5 +19,11 @@
 #### Tools 
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/JIRA-1572B6?style=for-the-badge&logo=JIRA&logoColor=white"> <img src="https://img.shields.io/badge/ECLIPSE-34567C?style=for-the-badge&logo=Eclipse&logoColor=white"> <img src="https://img.shields.io/badge/VisualStudioCode-1572B6?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 
+</br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rileyleee&layout=compact&theme=gruvbox)
+
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eunclid0202)](https://solved.ac/eunclid0202)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rileyleee&show_icons=true&theme=vue-dark)
 </div>
