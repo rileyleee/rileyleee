@@ -32,5 +32,4 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eunclid0202)](https://solved.ac/eunclid0202)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rileyleee&show_icons=true&theme=vue-dark)
 </div>
