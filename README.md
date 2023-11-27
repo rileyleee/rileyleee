@@ -19,9 +19,8 @@
 ### Platform and Language
 </br>
 
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=spring&logoColor=white">  <img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> 
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/JAVASCRIPT-ECD53F?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/SELENIUM-FF9900?style=for-the-badge&logo=SELENIUM&logoColor=white">
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=spring&logoColor=white">  <img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/KOTLIN-black?style=for-the-badge&logo=kotlin&logoColor=#7F52FF"> <img src="https://img.shields.io/badge/Realm-4479A1?style=for-the-badge&logo=realm&logoColor=#39477F"> <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/JAVASCRIPT-ECD53F?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/TYPESCRIPT-black?style=for-the-badge&logo=typescript&logoColor=#3178C6"> <img src="https://img.shields.io/badge/SELENIUM-FF9900?style=for-the-badge&logo=SELENIUM&logoColor=green"> 
 </br>
 ### Tools 
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/JIRA-1572B6?style=for-the-badge&logo=JIRA&logoColor=white"> <img src="https://img.shields.io/badge/ECLIPSE-34567C?style=for-the-badge&logo=Eclipse&logoColor=white"> <img src="https://img.shields.io/badge/VisualStudioCode-1572B6?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
