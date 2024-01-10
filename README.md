@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=LEE EunGyeong&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=LEE_EunGyeong&fontSize=70" />
 
 <div align="center">
 
