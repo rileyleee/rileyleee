@@ -15,9 +15,9 @@
 </br>
 
 ## 🔨Tech Stack🔨
+</br>
 
 ### Language / Framework / Library / DBMS
-</br>
 
 <img src="https://img.shields.io/badge/OpenJDK-000000?style=for-the-badge&logo=OpenJDK&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
@@ -33,6 +33,7 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=SELENIUM&logoColor=green"> 
+
 </br>
 
 ### Tools / IDE
@@ -48,8 +49,12 @@
 <img src="https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=Mattermost&logoColor=white">
 
 </br>
+</br>
+</br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rileyleee&layout=compact&theme=gruvbox)
+
+</br>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eunclid0202)](https://solved.ac/eunclid0202)
 
